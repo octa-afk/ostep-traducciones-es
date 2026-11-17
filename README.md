@@ -1,4 +1,4 @@
-# 📘 OSTEP en español
+# OSTEP en español
 
 > Traducciones al español rioplatense de capítulos de **_Operating Systems: Three Easy Pieces_** (OSTEP), hechas para la materia **Sistemas Operativos** de **FaMAF**.
 

@@ -50,7 +50,7 @@
 
 ---
 
-## 🚧 Pendientes
+## Pendientes
 
 Capítulos de las partes I a III de OSTEP que todavía no están traducidos:
 

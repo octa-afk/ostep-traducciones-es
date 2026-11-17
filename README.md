@@ -8,13 +8,13 @@
 
 ## 📚 Capítulos traducidos
 
-### 🧭 Introducción · [`introduccion/`](introduccion/)
+### 🧭 Introducción · [`01-introduccion/`](01-introduccion/)
 
 | Cap. | Título |
 |:---:|---|
 | 2 | Introducción a los Sistemas Operativos |
 
-### ⚙️ CPU: procesos y planificación · [`cpu/`](cpu/)
+### ⚙️ CPU: procesos y planificación · [`02-cpu/`](02-cpu/)
 
 | Cap. | Título |
 |:---:|---|
@@ -24,7 +24,7 @@
 | 7 | Introducción a la Planificación |
 | 8 | Planificador MLFQ |
 
-### 🧠 Memoria · [`memoria/`](memoria/)
+### 🧠 Memoria · [`03-memoria/`](03-memoria/)
 
 | Cap. | Título |
 |:---:|---|
@@ -37,7 +37,7 @@
 | 19 | TLB |
 | 20 | Paginación Multinivel |
 
-### 🔀 Concurrencia · [`concurrencia/`](concurrencia/)
+### 🔀 Concurrencia · [`04-concurrencia/`](04-concurrencia/)
 
 | Cap. | Título |
 |:---:|---|

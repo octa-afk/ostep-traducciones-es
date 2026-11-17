@@ -44,6 +44,18 @@ Traducciones al español rioplatense de capítulos de *Operating Systems: Three 
 
 Los archivos tienen el nombre `Capítulo N, Título.pdf`.
 
+## Pendientes
+
+Capítulos de las partes I a III de OSTEP que todavía no están traducidos:
+
+- **Virtualización de la CPU**: 3 (Diálogo sobre la virtualización), 9 (Planificación por lotería), 10 (Planificación con múltiples CPUs), 11 (Resumen: diálogo sobre la CPU).
+- **Memoria**: 12 (Diálogo sobre la memoria), 21 (Más allá de la memoria física: mecanismos), 22 (Más allá de la memoria física: políticas), 23 (Caso de estudio: VAX/VMS), 24 (Resumen: diálogo sobre la memoria).
+- **Concurrencia**: 25 (Diálogo sobre la concurrencia), 29 (Estructuras de datos basadas en locks), 31 (Semáforos), 32 (Errores comunes de concurrencia), 33 (Concurrencia basada en eventos), 34 (Resumen: diálogo sobre la concurrencia).
+
+## Original
+
+Texto original en inglés: https://pages.cs.wisc.edu/~remzi/OSTEP/
+
 ## Aviso
 
 Esta es una traducción no oficial. El texto original es de Remzi H. Arpaci-Dusseau y Andrea C. Arpaci-Dusseau, y su licencia es CC BY-NC-ND 4.0. Las traducciones no son el material original de la materia.

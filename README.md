@@ -4,14 +4,26 @@ Traducciones al español rioplatense de capítulos de *Operating Systems: Three 
 
 ## Capítulos incluidos
 
+### Introducción (`introduccion/`)
+
 | Cap. | Título |
 |---|---|
 | 2 | Introducción a los Sistemas Operativos |
+
+### CPU: procesos y planificación (`cpu/`)
+
+| Cap. | Título |
+|---|---|
 | 4 | La Abstracción de los Procesos |
 | 5 | La API de Procesos |
 | 6 | Ejecución Directa Limitada |
 | 7 | Introducción a la Planificación |
 | 8 | Planificador MLFQ |
+
+### Memoria (`memoria/`)
+
+| Cap. | Título |
+|---|---|
 | 13 | La Abstracción del Espacio de Direcciones |
 | 14 | La API de Memoria |
 | 15 | Mecanismo: Traducción de Direcciones |
@@ -20,12 +32,17 @@ Traducciones al español rioplatense de capítulos de *Operating Systems: Three 
 | 18 | Introducción a la Paginación |
 | 19 | TLB |
 | 20 | Paginación Multinivel |
+
+### Concurrencia (`concurrencia/`)
+
+| Cap. | Título |
+|---|---|
 | 26 | Concurrencia: Una Introducción |
 | 27 | La API de Hilos |
 | 28 | Locks |
 | 30 | Variables de Condición |
 
-Los archivos están en la raíz del repositorio con el nombre `Capítulo N, Título.pdf`.
+Los archivos tienen el nombre `Capítulo N, Título.pdf`.
 
 ## Aviso
 

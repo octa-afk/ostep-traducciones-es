@@ -45,6 +45,20 @@
 | 27 | La API de Hilos |
 | 28 | Locks |
 | 30 | Variables de Condición |
+| 31 | Semáforos |
+| 32 | Problemas Comunes de Concurrencia |
+
+### 💾 Persistencia · [`05-persistencia/`](05-persistencia/)
+
+| Cap. | Título |
+|:---:|---|
+| 36 | Dispositivos de E/S |
+| 37 | Discos Rígidos |
+| 39 | Archivos y Directorios |
+| 40 | Implementación del Sistema de Archivos |
+| 41 | Localidad y el Fast File System |
+| 42 | Consistencia ante Caídas: FSCK y Journaling |
+| 43 | Sistemas de Archivos con Estructura de Log |
 
 > Los archivos tienen el nombre `Capítulo N, Título.pdf`.
 
@@ -56,7 +70,8 @@ Capítulos de las partes I a III de OSTEP que todavía no están traducidos:
 
 - **⚙️ Virtualización de la CPU:** 3 (Diálogo sobre la virtualización), 9 (Planificación por lotería), 10 (Planificación con múltiples CPUs), 11 (Resumen: diálogo sobre la CPU).
 - **🧠 Memoria:** 12 (Diálogo sobre la memoria), 21 (Más allá de la memoria física: mecanismos), 22 (Más allá de la memoria física: políticas), 23 (Caso de estudio: VAX/VMS), 24 (Resumen: diálogo sobre la memoria).
-- **🔀 Concurrencia:** 25 (Diálogo sobre la concurrencia), 29 (Estructuras de datos basadas en locks), 31 (Semáforos), 32 (Errores comunes de concurrencia), 33 (Concurrencia basada en eventos), 34 (Resumen: diálogo sobre la concurrencia).
+- **🔀 Concurrencia:** 25 (Diálogo sobre la concurrencia), 29 (Estructuras de datos basadas en locks), 33 (Concurrencia basada en eventos), 34 (Resumen: diálogo sobre la concurrencia).
+- **💾 Persistencia:** 38 (RAID), 44 (Integridad de datos y protección), 45 (Resumen: diálogo sobre la persistencia).
 
 ---
 
